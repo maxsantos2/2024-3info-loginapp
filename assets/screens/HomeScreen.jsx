@@ -10,7 +10,7 @@ return (
         onPress={() =>{navigation.navigate("LoginScreen");
         }}
         > 
-        Logout
+        Login
         </Button>
     </View>
 );
